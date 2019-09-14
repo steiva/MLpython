@@ -7,4 +7,5 @@ class Solution:
             i=x%10+i*10
             x=int(x/10)
         return x==i or x==int(i/10)
-        ##test oko
+        ## if its useless
+        
