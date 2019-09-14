@@ -8,4 +8,6 @@ class Solution:
             x=int(x/10)
         return x==i or x==int(i/10)
         ## if its useless
-        
+
+a=Solution()
+print(a.isPalindrome(13))
